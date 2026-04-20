@@ -12,7 +12,7 @@
   <rect width="900" height="200" fill="url(#hbg)"/>
   <path d="M0,160 C150,120 300,180 450,150 C600,120 750,170 900,140 L900,200 L0,200 Z" fill="rgba(255,255,255,0.05)"/>
   <path d="M0,175 C200,145 400,185 600,160 C750,140 850,165 900,155 L900,200 L0,200 Z" fill="rgba(255,255,255,0.03)"/>
-  <text x="450" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Abhishek Pandey</text>
+  <text x="450" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Abhishek Pandey</text><br>
   <text x="450" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#A78BFA" text-anchor="middle" letter-spacing="0.5">Full Stack Dev  |  UI/UX  |  Shopify &amp; WordPress Expert</text>
 </svg>
 
