@@ -47,17 +47,6 @@ const abhishek = {
 ```
 
 > 🎯 **On a Mission** — Helping doctors, general stores & real estate agencies in Delhi NCR get their **first website** and grow their digital presence.
-
----
-
-## 🏗️ Featured Projects
-
-| Project | Stack | Live |
-|---------|-------|------|
-| PixelForge Agency Site | Next.js · Tailwind · GSAP | [Visit →](https://abhishekpandey-dev.vercel.app/) |
-| Add your project | Your stack | [Link](#) |
-| Add your project | Your stack | [Link](#) |
-
 ---
 
 ## 💼 Services I Offer
